@@ -32,3 +32,5 @@ Encapsulate model training processes into functions with parameters for hyperpar
 # Additional Reading:
 <https://www.browserstack.com/guide/coding-standards-best-practices>
 <https://www.datacamp.com/tutorial/coding-best-practices-and-guidelines>
+
+## NEXT: <https://github.com/Malone-Disturbance-Ecology-Lab/GOODCODE/blob/e204e33b63fdc499b580be941ba48eb2184675f5/Reproducible>
