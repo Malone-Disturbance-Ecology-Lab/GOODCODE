@@ -28,3 +28,7 @@ Design functions to generate specific types of plots (e.g., "plot_histogram", "c
 # 10. Model training functions:
 Encapsulate model training processes into functions with parameters for hyperparameter tuning. 
  
+
+# Additional Reading:
+<https://www.browserstack.com/guide/coding-standards-best-practices>
+<https://www.datacamp.com/tutorial/coding-best-practices-and-guidelines>
