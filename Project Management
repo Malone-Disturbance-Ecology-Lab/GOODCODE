@@ -1,0 +1,4 @@
+1. Create a folder for each of your projects
+2. Create a repository for your project
+3. Organize scripts in subfolders: workflows, functions, exploratory... etc
+4. Use your README to explain the background of the project and the purpose of each script.
