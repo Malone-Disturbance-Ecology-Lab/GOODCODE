@@ -34,3 +34,6 @@ Encapsulate model training processes into functions with parameters for hyperpar
 <https://www.datacamp.com/tutorial/coding-best-practices-and-guidelines>
 
 ## NEXT: <https://github.com/Malone-Disturbance-Ecology-Lab/GOODCODE/blob/e204e33b63fdc499b580be941ba48eb2184675f5/Reproducible>
+
+### Additional Topics:
+Data Harmonization: <https://www.nature.com/articles/s41597-024-02956-3>
